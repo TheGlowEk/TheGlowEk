@@ -10,8 +10,8 @@ Jestem TheGlowEk - Programista z pasji, "tfuurca" internetowy, znawca technologi
 <img align="right" width="200" src="https://github.com/TheGlowEk/TheGlowEk/blob/main/theglowek/smike.png" />
 
 * 🗜 Front-End moim życiem...
-* 📸 "twórca" YouTube/TikTok
-* 🦟 Lubi pisać amatorskie szkodnik w C/C++ (Jak narazie)
+* 📸 "Twórca" na YouTube/TikTok
+* 🦟 Lubi pisać amatorskie szkodniki w C/C++ (Jak narazie...)
 
 ### Statystyki
 [![degłowek](https://github-readme-stats.vercel.app/api?username=theglowek&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
