@@ -1,13 +1,13 @@
 # Siemanko 👋
 
-![TheGlowEk](https://github.com/theglowek/theglowek/header.png)
+![TheGlowEk](https://github.com/TheGlowEk/TheGlowEk/blob/main/theglowek/header.png)
 
 Jestem TheGlowEk - Programista z pasji, "tfuurca" internetowy, znawca technologii, entuzjasta grania, raz do czasu tworzy muzykę w FL Studio...
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,vscode#gh-dark-mode-only)](https://github.com/theglowek#gh-dark-mode-only)
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,vscode&theme=light#gh-light-mode-only)](https://github.com/theglowek#gh-light-mode-only)
 
-<img align="right" width="200" src="https://github.com/theglowek/theglowek/smike.png" />
+<img align="right" width="200" src="https://github.com/TheGlowEk/TheGlowEk/blob/main/theglowek/smike.png" />
 
 * 🗜 Front-End moim życiem...
 * 📸 "twórca" YouTube/TikTok
