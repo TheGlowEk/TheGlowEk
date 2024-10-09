@@ -16,7 +16,4 @@ Jestem TheGlowEk - Programista z pasji, "tfuurca" internetowy, znawca technologi
 ### Statystyki
 [![degłowek](https://github-readme-stats.vercel.app/api?username=theglowek&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-### Now playing
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31q4k7jyo6jy6wvexdk4bgknxbeu&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=6b03b0&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31q4k7jyo6jy6wvexdk4bgknxbeu&redirect=true)
-
 <sub>*Opis na dzień: 09.10.2024</strong></sub>
